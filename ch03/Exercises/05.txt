@@ -1,4 +1,4 @@
-scanf("%d%f%d", &x, &i, &y);
+scanf("%f%d%f", &x, &i, &y);
 
 assume i is an int variable and x & y are float variables.
 
